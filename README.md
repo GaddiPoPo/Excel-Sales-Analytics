@@ -1,53 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styled README</title>
-    <style>
-        body {
-            background-color: #f0f4f8; /* Light blue-gray background */
-            font-family: Arial, sans-serif;
-            color: #333;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #1a73e8; /* Blue for headings */
-        }
-        p, li {
-            line-height: 1.6;
-        }
-        code {
-            background-color: #f9f9f9;
-            border-radius: 5px;
-            padding: 2px 5px;
-            font-size: 90%;
-        }
-        a {
-            color: #1a73e8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+## Sales Report :
 
-# Sales and Finance Analytics Report
 
-## Project Overview
-This project aims to deliver comprehensive **Sales and Finance Analytics Reports** that provide actionable insights for businesses to optimize their sales strategies and financial decision-making processes.
+- **Project objective:** 
 
-### Sales Report Objectives
-1. **Customer Performance Report**  
-   Gain a clear understanding of customer behavior, identify high-value customers, and track performance metrics across different regions and customer segments.
+    **1.** Create a _[customer performance report]()_ 
 
-2. **Market Performance vs. Sales Targets Comparison**  
-   Perform an in-depth comparison between actual market performance and predefined sales targets, enabling businesses to fine-tune their sales strategies and identify growth opportunities.  
-   [Explore the Market Performance Report](https://github.com/GaddiPoPo/Excel-Sales-Analytics/blob/main/my%20second%20sales%20report.pdf)
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/GaddiPoPo/Excel-Sales-Analytics/blob/main/my%20second%20sales%20report.pdf)_
 
-... (the rest of your README content)
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-</body>
-</html>
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/GaddiPoPo/Excel-P-L-Reports/blob/main/report6.pdf)_ & _[Months](https://github.com/GaddiPoPo/Excel-P-L-Reports/blob/main/report%20-5.pdf)_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/GaddiPoPo/Excel-P-L-Reports/blob/main/report-7.pdf)_
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
+make my readme file better by adding some background to it and making it just some attractive
